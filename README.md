@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Francois-QUICODE
+- 👀 I’m interested in sofware and machine developpement
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on fun projects in python
